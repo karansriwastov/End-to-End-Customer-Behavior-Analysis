@@ -10,7 +10,7 @@ The goal of this project is to analyze customer shopping behavior using transact
 *   **Shipping Preferences:** Average purchase amounts remain consistent regardless of shipping speed, with Express shipping averaging $60.48 and Standard averaging $58.46.
 
 ## 📊 Interactive Dashboard
-![Customer Behavior Dashboard](Screenshot_2026-09-02_232624.png)
+![Customer Behavior Dashboard](Dashboard.png)
 
 ## 🛠️ Tools Used
 *   **Python (Pandas & SQLAlchemy):** Data cleaning, missing value imputation, and database integration.
